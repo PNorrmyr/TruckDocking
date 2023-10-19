@@ -1,3 +1,3 @@
 # TruckDocking
 
-Gjord av Tobias HeidLund, Philip Norrmyr, Islam Mazayev
+Gjord av Tobias Heidlund, Philip Norrmyr, Islam Mazayev
